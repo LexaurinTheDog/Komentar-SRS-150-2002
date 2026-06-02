@@ -109,7 +109,7 @@ Podá-li návrh **více osob**, jde o **samostatné** procesní společenství: 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 1212/2021](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2022%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2022&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_1212_2021.txt) — 5. 11. 2021, kat. A
+- *NS* [21 Cdo 1212/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E2532481FAD2C59FC12587C5001E51D0?openDocument) — 5. 11. 2021, kat. A
   > „Rozhodnutí soudu o žalobě proti rozhodnutí správce daně o zřízení zástavního práva k nemovitým věcem podané podle ustanovení § 65 a násl. s. ř. s. nezakládá překážku věci rozhodnuté pro řízení o žalobě na určení, že tyto nemovité věci nejsou zatíženy zástavním právem zřízeným rozhodnutím správce daně"
 
 #### Specialita správního soudnictví
