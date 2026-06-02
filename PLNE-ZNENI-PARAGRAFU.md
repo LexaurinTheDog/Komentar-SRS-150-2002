@@ -297,6 +297,11 @@ Zákon má 143 očíslovaných paragrafů (§ 1 až § 135 včetně písmenných
 > *(5) Je-li počet osob zúčastněných na řízení mimořádně vysoký a jednotlivým výkonem jejich práv by mohl být ohrožen rychlý průběh řízení, rozhodne soud, že osoby zúčastněné na řízení mohou svá práva v řízení uplatňovat pouze prostřednictvím společného zmocněnce, kterého si zvolí. Jestliže by celkový počet zvolených zmocněnců vzrostl na více než 10 a osoby zúčastněné na řízení se mezi sebou o výběru nedohodnou, provede výběr s přihlédnutím k zájmům osob zúčastněných na řízení soud. Společný zmocněnec vykonává práva osob zúčastněných na řízení, které zastupuje. Ustanovení § 35 odst. 2 a 8 se použijí přiměřeně.*
 >
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1212/2021](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2022%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2022&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_1212_2021.txt) — 5. 11. 2021, kat. A
+  > „Rozhodnutí soudu o žalobě proti rozhodnutí správce daně o zřízení zástavního práva k nemovitým věcem podané podle ustanovení § 65 a násl. s. ř. s. nezakládá překážku věci rozhodnuté pro řízení o žalobě na určení, že tyto nemovité věci nejsou zatíženy zástavním právem zřízeným rozhodnutím správce daně"
+
 ## § 35
 
 > *Zastoupení*
