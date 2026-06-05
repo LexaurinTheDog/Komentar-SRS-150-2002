@@ -32,6 +32,10 @@ Doslovné znění všech paragrafů na jednom místě: **[PLNE-ZNENI-PARAGRAFU.m
 Tento komentář **není autoritativním právním názorem** a neslouží jako právní poradenství. Před aplikací konkrétního ustanovení vždy ověřte aktuální znění zákona a aktuální judikaturu k danému dni.
 
 
+## Důvodová zpráva
+
+Původní **důvodová zpráva** k zákonu (z oficiálního sněmovního tisku Poslanecké sněmovny ČR) je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad jednotlivých ustanovení.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
